@@ -9,16 +9,8 @@
       "name": "Paul Keeling"
     },
     {
-      "id": "1dd9",
-      "name": "Saul Beer"
-    },
-    {
       "id": "7c6d",
       "name": "Darrell Lubowitz"
-    },
-    {
-      "id": "05d8",
-      "name": "Amos Littel"
     },
     {
       "id": "9b41",
@@ -29,6 +21,33 @@
       "name": "Henry Howell"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "9cb0",
+      "userId": "1",
+      "title": "Small Concrete Gloves"
+    },
+    {
+      "id": "edd4",
+      "userId": "1",
+      "title": "Ergonomic Fresh Tuna"
+    },
+    {
+      "id": "6074",
+      "userId": "b7d5",
+      "title": "Bespoke Fresh Bike"
+    }
+  ],
+  "photos": [
+    {
+      "id": "abd8",
+      "albumId": "9cb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=12087"
+    },
+    {
+      "id": "ee28",
+      "albumId": "9cb0",
+      "url": "https://loremflickr.com/150/150/abstract?lock=89165"
+    }
+  ]
 }
